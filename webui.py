@@ -196,7 +196,7 @@ def webui():
 
 
 if __name__ == "__main__":
-    if cmd_opts.nowebui:
+    # if cmd_opts.nowebui:
         api_only()
-    else:
-        webui()
+    # else:
+        # webui()
